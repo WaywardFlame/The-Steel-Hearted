@@ -1,0 +1,49 @@
+The controls and other information for "The Steel Hearted".
+
+What is "The Steel Hearted"?
+The Steel Hearted is a turn-based mech. Players can explore
+a select few star systems, and fight enemies in order to 
+eventually their mech for greater combat prowess. Mechs come
+with 'support cores', tools that alter a mech's move set, and
+which allow for more varied combat.
+
+Menu controls:
+- Left click to interact with menus
+
+Space controls:
+- move ship with WASD
+- change systems with 1, 2, 3, 4, 5 (along top of keyboard)
+- press E when icon appears to trade with capital, or fight base
+- press P to pause the game, can save and quit here
+
+Battle controls:
+- 1, melee attack
+- 2, guard
+- 3, laser attack
+- 4, missile attack
+- hold down 5 + press numpad 1 to 8, switch cores
+
+Core Switch (in battle while holding down 5):
+- Numpad 1, base core, low armor damage with some health damage
+- Numpad 2, base core, medium armor damage with little health damage
+- Numpad 3, base core, heavy armor damage with one health damage
+- Numpad 4, purchased core, gain charge and deal little armor damage
+- Numpad 5, purchased core, decrease missile ammo cost by small amount
+- Numpad 6, purchased core, decrease missile ammo cost by large amount
+- Numpad 7, purchased core, decrease damage and charge cost of laser
+- Numpad 8, purchased core, increase damage and charge cost of laser
+
+Game Objectives:
+- Defeat all bases in the United Nations of Earth
+- Defeat all bases in the Grand Revolutionaries
+- Defeat all bases in the Imperium
+- Defeat all bases in the Pristine Collective
+- Defeat the base in the Golden Empire, available once all other bases have been defeated
+
+Defeating a base rewards you with some currency, which can be used
+to purchase mech frame upgrades or support cores at a system's capital planet.
+
+Frame Upgrades increase your mech's armor and damage.
+Support Cores increase your health, and offers move variations (see above).
+
+You can fight already defeated bases again for lesser rewards.
