@@ -1,4 +1,4 @@
-This is essentially the source code for "The Steel Hearted". This is also accessible by downloading the game from the itch.io link.
+This is essentially the source code for "The Steel Hearted". The game is also accessible from the itch.io link.
 
 The Steel Hearted is a turn-based mech game. Players can explore a select few star systems, and fight enemies in order to eventually upgrade their mech for greater combat prowess. Mechs come with 'support cores', tools that alter a mech's move set, and which allow for more varied combat.
 
