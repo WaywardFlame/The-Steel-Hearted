@@ -9,9 +9,15 @@ I made this game using Go and raylib as part of a project for a college course. 
 Game and art made by me. For the music and other sounds, see below.
 
 Helton Yan - Various Battle Sound Effects
+
 SondreDrakensson - Stasis (music for space)
+
 ValentinSosnitskiy - CosMo
+
 Vrymaa - Nihil Inanis
+
 LagMusics - space heavy metal
+
 Victor_Natas - Numb from fear
+
 moludar - Various Menu Sound Effects
